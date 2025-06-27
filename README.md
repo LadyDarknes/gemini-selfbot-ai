@@ -2,7 +2,7 @@
 
 Bu proje, Discord üzerinde çalışmak üzere hazırlanmış, kişisel kullanım amaçlı bir selfbot altyapısıdır. Mesajları yanıtlayabilir, özel mesaj gönderebilir, görselleri analiz edebilir ve komutlara göre özel davranışlar sergileyebilir.
 
-Yukarıdaki "AI tabanlı açıklama(Gpt-Plus modeli)" kısmını bir kenara bırakırsak, bu projedeki temel amacım JavaScript'i daha iyi kavramaktı. Aynı zamanda Discord'da selfbot kütüphanelerinin nasıl çalıştığını anlamaya çalıştım.
+Yukarıdaki "AI tabanlı açıklama(Gpt-Plus modeli)" kısmını bir kenara bırakırsak, bu projedeki temel amacım JavaScript, Node.js, c++ gibi dilleri daha iyi kavramaktı. Aynı zamanda Discord'da selfbot kütüphanelerinin nasıl çalıştığını anlamaya çalıştım.
 
 Projeyi şimdilik sade ve basit şekilde paylaşıyorum. Eğer bir kişi bile ilgi gösterir ya da geliştirme talep ederse, kodu toparlayıp düzgün bir template haline getiririm. Şu an modülleri bile `index.js` içine gömmem açıkçası biraz komik duruyor, farkındayım. 😄
 
